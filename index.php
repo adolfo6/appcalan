@@ -78,9 +78,9 @@
 
 <?php
 /*Requerir conexion con la BD*/
-   $servidor = "localhost";
-   $nombreusuario = "root";
-   $password = "";
+   $servidor = "databaseic.mysql.database.azure.com";
+   $nombreusuario = "tacodorado@databaseic";
+   $password = "taco.123";
    $db = "zona_tic";
    
    $conexion = new mysqli($servidor, $nombreusuario, $password, $db);

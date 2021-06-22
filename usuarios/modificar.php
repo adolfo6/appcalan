@@ -1,8 +1,8 @@
 <?php
 
-$server = "localhost";
-$usuario ="root";
-$contraseña = "";
+$server = "tacodorado@databaseic";
+$usuario ="tacodorado@databaseic";
+$contraseña = "taco.123";
 $bd = "zona_tic";
 
 $conexion = mysqli_connect($server, $usuario, $contraseña, $bd) or die ("Error en la conexion");

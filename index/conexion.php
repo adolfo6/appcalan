@@ -3,9 +3,9 @@
 <?php
 	function conectar()
 	{
-		$servidor = "localhost";
-		$usuario = "root";
-		$clave = "";
+		$servidor = "databaseic.mysql.database.azure.com";
+		$usuario = "tacodorado@databaseic";
+		$clave = "taco.123";
 		$bd = "zona_tic";
 		
 		// Se conecta al SGBD 

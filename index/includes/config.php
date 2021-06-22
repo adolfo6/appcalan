@@ -1,7 +1,7 @@
 <?php
-$host = "localhost";
-$dbuser = "root";
-$dbpwd = "";
+$host = "databaseic.mysql.database.azure.com";
+$dbuser = "tacodorado@databaseic";
+$dbpwd = "taco.123";
 $db = "zona_tic";
 
 $connect = mysqli_connect ($host, $dbuser, $dbpwd, $db);

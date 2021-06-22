@@ -102,9 +102,9 @@
 		<div class="perfil">
 		<?php
 					$numControl=$_REQUEST['numControl'];
-					$server = "localhost";
-                    $usuario ="root";
-                    $contraseña = "";
+					$server = "databaseic.mysql.database.azure.com";
+                    $usuario ="tacodorado@databaseic";
+                    $contraseña = "taco.123";
                     $bd = "zona_tic";
      
                     $conexion = mysqli_connect($server, $usuario, $contraseña, $bd) or die ("Error en la conexion");

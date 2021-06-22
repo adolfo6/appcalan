@@ -9,10 +9,10 @@ class Database{
     private $charset;
 
     public function __construct(){
-        $this->host = 'localhost';
+        $this->host = 'databaseic.mysql.database.azure.com';
         $this->db = 'zona_tic';
-        $this->user = 'root';
-        $this->password = '';
+        $this->user = 'tacodorado@databaseic';
+        $this->password = 'taco.123';
         $this->charset = 'utf8mb4';
     }
 

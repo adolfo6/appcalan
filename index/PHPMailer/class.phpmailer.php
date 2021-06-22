@@ -70,13 +70,13 @@ class PHPMailer
      * The From email address for the message.
      * @var string
      */
-    public $From = 'root@localhost';
+    public $From = 'tacodorado@databaseic@databaseic.mysql.database.azure.com';
 
     /**
      * The From name of the message.
      * @var string
      */
-    public $FromName = 'Root User';
+    public $FromName = 'tacodorado@databaseic User';
 
     /**
      * The Sender email (Return-Path) of the message.
@@ -226,7 +226,7 @@ class PHPMailer
      * Hosts will be tried in order.
      * @var string
      */
-    public $Host = 'localhost';
+    public $Host = 'databaseic.mysql.database.azure.com';
 
     /**
      * The default SMTP server port.
@@ -3280,7 +3280,7 @@ class PHPMailer
      */
     protected function serverHostname()
     {
-        $result = 'localhost.localdomain';
+        $result = 'databaseic.mysql.database.azure.com.localdomain';
         if (!empty($this->Hostname)) {
             $result = $this->Hostname;
         } elseif (isset($_SERVER) and array_key_exists('SERVER_NAME', $_SERVER) and !empty($_SERVER['SERVER_NAME'])) {
