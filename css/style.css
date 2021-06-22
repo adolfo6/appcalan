@@ -1,0 +1,768 @@
+﻿.h3{
+    color: green;
+
+   
+}
+.h4{
+    color: black;
+
+   
+}
+.listaarticulos{
+   color: green;
+
+   
+}
+.textodecarrucel{
+    color: blue;
+ 
+    
+ }
+ .historial{
+    color: blue;
+  initial-letter: 2px;
+    
+ }
+
+ .botonesregistrareiniciarsesion{
+    border-radius: 5px solid white;
+    background-color: #e3f2fd;
+   margin-top: 10px;
+    padding: 5px;
+    border-radius: 10px;
+    margin-right: 100px;
+
+   
+}
+
+
+.container{
+    background: #D5DBDB;
+    margin-top: 50px;
+    margin-block-end: 50px;
+    margin: 20px auto;
+    padding: 40px;
+    border-radius: 20px;
+}
+.colorcategorias{
+    color: #196F3D;
+    text-align: center;
+}
+
+
+.Recuperarlacontraseña{
+    color: #196F3D;
+    text-align: center;
+    align-content: center;
+}
+
+
+
+.perfil {
+    background:rgb(225, 255, 247) ;
+    margin-top: 50px;
+    margin-block-end: 50px;
+    margin: 20px auto;
+    padding: 40px;
+    border-radius: 20px;
+}
+.img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    width:80% ;
+}
+.linkUTN{
+    float: right;
+    text-align: right;
+    align-content: left;
+    margin-left: 20%;    
+}  
+.linkfacebook{
+    float: left;
+    text-align: left;
+    align-content: left;
+    margin-left:;    
+} 
+
+
+
+.imgarticuloespecifico{
+    width: 35%;
+
+}
+
+
+.vistasarticuloespecifico{
+    
+    margin-left: 30px;
+    
+}
+.articulocomentario{
+    
+    margin-left: 40px;
+    margin-top: 10px;
+    
+}
+
+
+.header{
+    background-color: white;
+    padding: 30px;
+}
+
+.header2{
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 10px;
+    padding: 10px;
+    margin-bottom: -2%;
+}
+.header4 {
+    border-radius: 1px solid white;
+    background-color: white;
+   
+    padding: 10px;
+}
+
+
+
+.header8{
+    border-radius: 5px solid white;
+    background-color: #e3f2fd;
+   margin-top: 10px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.agregar{
+    align-content: center;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    }
+
+    .agregar1{
+        align-content: left;
+        margin-top: 20px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: left;
+        }
+.carro{
+	background-color: white;
+    min-height: 200px;
+    
+}
+
+.solici{
+	background-color: white;
+    min-height: 200px;
+    margin-top: 20px;
+    background-color: white;
+    
+    padding: 10px;
+    
+}
+
+
+.margen{
+    
+    margin-top: 10px;
+       
+       
+}
+
+
+.margenadministrararticulo{
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center; 
+    text-align: center;
+}
+
+.articulo {
+    background-color:#D5DBDB;
+    margin-top: 30px;
+    margin-left: auto;
+   margin-right: auto;
+   align-content: center;
+}
+
+.articulot {
+    margin-top: 10px;
+    padding: 10px;
+    height: 3000px;
+    
+}
+
+.lead{
+    color: green;
+}
+.entrada {
+    color: blue;
+}
+
+.subar {
+    border-radius: 10px;
+    min-height: 300px;
+    background-color: white;
+    width: auto;
+    margin-left: 18px;
+    padding: 10px;
+    width: auto ; height: auto;
+    margin-top: 15px; 
+}
+.subarsubar {
+    border-radius: 10px;
+    min-height: 300px;
+    background-color: white;
+    width: auto;
+    margin-left: 18px;
+    padding: 10px;
+    width: auto ; height: 730px;
+    margin-top: 15px; 
+}
+
+.subar1 {
+    border-radius: 10px;
+    
+    background-color: white;
+    
+   
+    padding: 10px;
+    ;
+    margin-top: 15;
+}
+
+
+
+
+
+
+
+.lista {
+    background-color:white;
+    border: 5px solid green;
+    min-height: 100px;
+    padding: 10px;
+   margin-left: auto;
+    margin-right: auto;
+    width: auto; height: 100px;
+    margin-top: 40px;
+}
+
+
+.pie {
+    background-color: #797D7F;
+    border-radius: 10px;
+    text-align: center;
+    
+    color: white;
+    margin-top: 40px;
+    padding: 20px;
+    float: center;
+}
+
+
+
+/* administrarticulo */
+
+
+.cabeza2 {
+	text-shadow: 2px 2px 5px rgb(9, 77, 20);
+	padding: 10px;
+    text-align: center;
+    color: white;
+	cursor: pointer;
+}
+
+.cabeza5 {
+	text-shadow: 2px 2px 5px rgb(9, 77, 20);
+	padding: 10px;
+    text-align: center;
+    color: white;
+	cursor: pointer;
+}
+
+
+.titulo {
+    text-align: center;
+    color: rgb(202, 183, 183);
+    background-color:rgb(15, 24, 110) ;
+    padding: 5px;
+    align-content: left;
+    margin-right: auto;
+    margin-left: 3%;
+}
+
+.estproceso{
+    color: red;
+}
+
+.proceso {
+    color: #7CFC00;
+}
+.card-img{
+    align: auto;
+    margin-top: 20px;
+}
+
+.card-imgi{
+    width: 200px;
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+
+
+
+
+/*Historial*/
+.cimg{
+    vertical-align: center;
+    background-color: #D1F2EB; 
+
+}
+
+.ctexto{
+    text-align: justify;
+    background-color: #D1F2EB; 
+
+}
+
+.cbotones{
+    align-content: center;
+    background-color: #D1F2EB;
+/*Revision*/
+
+}
+
+.cuadrom{
+    align-content: center;
+    background-color: #D1F2EB;
+}
+
+/*Retroalimentacion*/
+
+.retro{
+    align-content: center;
+    background-color: #D1F2EB;
+}
+
+
+/* Aqui comienza los css de quienes somos*/
+
+
+.video{
+   
+    padding-top: 10px;
+    
+}
+
+.video iframe,
+.video object,
+.video embed{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.anchovideo{
+    background-color: white;
+   border: 2px solid black;
+   min-height: 200px;
+}
+.listavideo {
+    background-color:white;
+    border-radius: 20px;
+    min-height: 200px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    display: inline-block;
+    
+   
+}
+
+.vmp {
+    border-radius: 10px;
+    min-height: auto;
+    padding: 0px;
+    background-color: white;
+    text-align: auto;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.vision{
+    margin-top: 0px;
+}
+.media img{
+    width: 20%;
+}
+
+.media{
+    margin: 5%
+}
+
+.modal-body{
+    background: white;
+}
+.list-unstyled{
+    border: 2px solid;
+    margin: 15px;
+    background: #6e6e6e
+}
+.card-title {
+    text-align: center;
+    border-radius:10px;
+    background: rgb(98, 177, 98);
+    padding: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card-title1 {
+    text-align: center;
+    border-radius:10px;
+    background: rgb(98, 177, 98);
+    margin-top: 10px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: 40px;
+  
+}
+.cuerpoaca {
+
+    text-align: center;
+    color:blue;
+}
+
+.media-body{
+    color: black;
+   text-align: left;
+   border: 1px solid color white;
+   background: white;
+
+}
+.container-fluid{
+	background: #ABEBC6;
+	display: inline-block;
+	text-align: center;
+}
+.navbar-nav{
+
+	text-align: center;
+    display: inline-flex;
+    width: 100%;
+}
+
+.navbar-light1{
+    margin:0%;
+}
+.form-inline{
+    margin: center;
+
+}
+.aceptar{
+    margin-top: 10px;
+    background-color:white;
+    border-radius: 10px;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.aceptar1{
+    margin-top: 10px;
+    padding: 20px;
+    
+    background-color:white;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+}
+
+.btn1{
+    background: red;
+    margin-left: 20px;
+    margin-top: 100px;
+}
+
+
+.btn{
+    align-content: center;
+    background: rgb(15, 24, 110)
+}
+
+.afu {
+    border: 1px solid black;
+}
+
+
+
+.seccion {
+    background-color: #AED6F1;
+    border: 4px solid #196F3D;
+    margin: 10px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align:  justify;
+    
+
+}
+
+.comentador img{
+    display: inline-block;
+    width: 12%;
+    float: left;
+}
+
+.otros{
+    width: 75%;
+    display: inline-block;
+}
+
+
+.comentarios {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    width:80% ;
+}
+
+.col-md-3{
+    display: inline-block;
+    
+}
+
+
+.enlacearticulo{
+    background: #b0deff;
+    color:rgb(3, 15, 11);  
+    border-radius: #053D2B;
+    text-align: center;
+    border-radius:10px;
+    padding: 8px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.enlacearticulo1 {
+    background: #46AFC1;
+    color:rgb(3, 15, 11);  
+    border: auto solid #053D2B;
+    width: auto; height: auto;
+    align-content: center;
+}
+
+.mas{
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+}
+
+.maso{
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+}
+.p1 {
+    color: blue;
+    text-align: center;
+}
+
+/*ver_articulo_adm*/
+
+.pclave{
+    text-align: justify;
+    background-color: rgb(209, 234, 242);
+    height: 5px;
+}
+
+.rreseña{
+    text-align: justify;
+    background-color: #D1F2EB;
+    color:black;
+    height: 150px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center; 
+    text-align: center;
+
+}
+
+.rarticulo1{
+    text-align: justify;
+    background-color: #D1F2EB; 
+    color:black;
+    height: auto;
+}
+
+
+
+.rarticulo{
+    text-align: justify;
+    background-color: #D1F2EB; 
+    color:black;
+    
+}
+.rreseña{
+    text-align: justify;
+    background-color: #D1F2EB; 
+    color:black;
+    height: auto;
+}
+
+
+
+
+#more {display: none;}
+
+
+.modal-header .modal-footer{
+    background-color: #196F3D;
+}
+
+.modal-fade {
+    border-radius: 10px;
+
+}
+
+.preart {
+    background-color:#C4CDCA;
+    padding: 10px;
+    margin-top: 0px;
+}
+
+
+.editarperfil{
+   
+    
+    margin-left: 40px;
+    margin-right: auto;
+
+}
+
+
+.prepala{
+   
+    background-color:#C4CDCA;
+    height: 30px;
+    color:black;
+
+}
+.arriba{
+    color: wheat;
+    background: #1540A4 ;
+}
+
+.enlacesubir{
+    background: #46AFC1;
+    color:rgb(3, 15, 11);  
+    border: 2px solid #053D2B;
+
+}
+
+/*Arreglo de barra de navegación*/
+
+.form-inline{
+    margin-left:72%;  
+    align-content: auto;
+justify-content: auto;
+}
+
+.btn-outline-success{
+    margin-left: -3%
+}
+/*Estilo de configurar perfil*/
+.dropbtn {
+    background-color:rgb(15, 24, 110);
+    color: white;
+    padding: 5px;
+    font-size: 15px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .dropbtn:hover, .dropbtn:focus {
+    background-color: #2980B9;
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown a:hover {background-color: #ddd;}
+  
+  .show {display: block;}
+
+  .leermasariculoespeci{
+      text-align: right;
+      align-content: right;
+      
+  }
+  .holacomoestas{
+    display: inline-block;
+    width: 120px;
+    padding: 10px;
+    text-align: center;
+    vertical-align: top;
+}
+
+#paginas ul{
+    margin: 10px 0;
+    padding: 0;
+}
+#paginas li{
+    display: inline-block;
+    margin: 0;
+    padding: 10px;
+}
+
+#paginas li a{
+    background: rgb(228, 228, 228);
+    border-radius: 3px;
+    color: rgb(50, 50, 50);
+    padding: 10px 15px;
+    text-decoration: none;
+}
+
+.actual{
+    background: rgb(20, 69, 124) !important;
+    color: rgb(255, 255, 255) !important;
+}
