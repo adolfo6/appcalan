@@ -144,7 +144,7 @@ $conexion->close();
 
 
 </head>
-<body background="img/fondo7.png">
+<body background="img/fondo8.png">
 	<section class="container">
 
 		<!--Inicio de barra de navegación-->
