@@ -145,7 +145,7 @@ $conexion->close();
 
     <link rel="stylesheet" type="text/css" href="../css/bootstrap.min.css">
     <link rel="stylesheet" href="../css/style.css" />
-    <title>Zona Tic Inicio</title>
+    <title>Zona Tic</title>
 
 
 
