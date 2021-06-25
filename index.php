@@ -217,7 +217,7 @@ $conexion->close();
 	
 	
 	
-												<a class="nav-link" href="index/recuperar.php">Recuperar
+												<a class="nav-link" href="index/recuperar.php">Olvide mi
 													contraseña</a>
 	
 											</div>
