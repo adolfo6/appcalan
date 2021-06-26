@@ -229,7 +229,7 @@ $conexion->close();
 	
 								<button style="margin-left:" type="button"
 									class="btn btn-primary" data-toggle="modal"
-									data-target="#exampleModalCenter">Registrarse</button>
+									data-target="#exampleModalCenter">No tengo una cuenta</button>
 	
 								<!-- Registrar -->
 								<div class="modal fade" id="exampleModalCenter" tabindex="-1"
