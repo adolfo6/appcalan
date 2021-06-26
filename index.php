@@ -322,7 +322,7 @@ $conexion->close();
 				<h1 class="entrada">Bienvenido a ZonaTIC</h1>
 				<p class="lead">
 					<b> 
-						<marquee behavior=alternate>Dale un vistazo a los artículos más relevantes del momento</marquee>
+						<marquee behavior=alternate>Informate de los artículos más relevantes del momento</marquee>
 					</b>
 				</p>
 	
