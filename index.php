@@ -150,7 +150,7 @@ $conexion->close();
 		<!--Inicio de barra de navegación-->
 	<div class="row margen">
 			<div class="col-md-2 header">
-				<img src="img/logon.png" class="img" />
+				<img src="img/log.png" class="img" />
 			</div>
 			<div class="col-md-10 header">
 				<!--Navegación-->
